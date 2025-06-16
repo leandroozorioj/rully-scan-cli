@@ -20,7 +20,7 @@ A multi-platform network tool developed in Go Lang for IP/DNS verification and p
 
 1. Clone the project:
 ```bash
-git clone github.com/leandroozorioj/rully-scan-cli
+git git clone https://github.com/leandroozorioj/rully-scan-cli.git
 cd rully-scan-cli
 ```
 
