@@ -183,4 +183,4 @@ MIT License - see LICENSE file for details.
 
 ---
 
-**Rully Scan CLI v1.0.1** - Multi-platform Network Tool in Go Lang
+**Rully Scan CLI v1.0.2** - Multi-platform Network Tool in Go Lang
